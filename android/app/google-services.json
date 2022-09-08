@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "849088455248",
+    "firebase_url": "https://introchat-dev-1.firebaseio.com",
+    "project_id": "introchat-dev-1",
+    "storage_bucket": "introchat-dev-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849088455248:android:6211e4713f4a0ae565a755",
+        "android_client_info": {
+          "package_name": "com.introchat.introchat.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849088455248-hfag5hpe7da6kenfhql9fb7e9ih2np4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.introchat.introchat.dev",
+            "certificate_hash": "ca6ef6c25dfe5ad75357522cb459f83e35a09960"
+          }
+        },
+        {
+          "client_id": "849088455248-n7r9t4mtge8q8ktq1s3g2kqefpdivqi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9zjtQ3IzT_1u1JUh8mrFgFMTNdtRg8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849088455248-n7r9t4mtge8q8ktq1s3g2kqefpdivqi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849088455248-gq4jra4qsoga4jg9a5e478raf8utmnps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.introchat.introchat-dev-1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
